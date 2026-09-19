@@ -4,7 +4,7 @@ A simple, interactive date calculator tool that lets you compute the number of d
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://www.xn--msiu-goa8b.vn/github/counting-date](https://www.xn--msiu-goa8b.vn/github/counting-date)
+Check out the live demo: [https://www.sieu.io.vn/github/counting-date](https://www.sieu.io.vn/github/counting-date)
 
 ## ✨ Features
 
